@@ -17,4 +17,5 @@ int main(){
 }
     return 0;
 }
-
+// output 2!=2
+//3!=6
