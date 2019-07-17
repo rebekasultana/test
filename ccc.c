@@ -29,3 +29,5 @@ int Fibonacci(int n)
    else
       return ( Fibonacci(n-1) + Fibonacci(n-2) );
 }
+// its not for  factorial
+//fibonacci = 0,1+0,1+2......
