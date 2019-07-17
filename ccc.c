@@ -29,3 +29,4 @@ int Fibonacci(int n)
    else
       return ( Fibonacci(n-1) + Fibonacci(n-2) );
 }
+// its for factorial
